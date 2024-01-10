@@ -1,0 +1,31 @@
+.main
+{
+   background:linear-gradient(#FFE0DE,#D5E9FE,#FFFFFF,#FED9F5,#F3D7FF);
+   width:100%;
+   z-index: -1;
+}
+.projects
+{
+  background:linear-gradient(#FAF6D7,#D4DFFA,#DBFBDA,#ECBBFA);
+}
+.web
+{
+    margin-left: 450px;
+    font-family: 'Kalnia', serif;
+font-family: 'Rubik Doodle Shadow', system-ui;
+}
+.detail
+{
+  margin-left: 100px;
+  font-family: 'Kalnia', serif;
+font-family: 'Rubik Doodle Shadow', system-ui;
+}
+.round
+{
+  border-radius: 50%;
+}
+.page
+{
+    margin-left: 450px;
+}
+
